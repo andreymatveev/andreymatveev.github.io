@@ -1,13 +1,3 @@
-title: Test
+title: Тест кириллицы
 description: >-
   Test description
-preferences:
-  - type: dropdown
-    name: language
-    label: Language
-    description: Choose your preferred language.
-    options:
-      - label: English
-        value: en
-      - label: Español
-        value: es
